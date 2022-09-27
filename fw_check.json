@@ -1,6 +1,6 @@
 {
   "Pre-Foundation": {
-    "version": "PF-0.2",
+    "version": "PF-0.3",
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/jaydip-kathiriya/FW_OTA/firmware.bin"
