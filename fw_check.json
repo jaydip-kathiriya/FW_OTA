@@ -1,14 +1,14 @@
 {
   "Pre-Foundation": {
     "version": "PF-0.3",
-    "host": "raw.githubusercontent.com",
-    "port": 443,
-    "bin": "/jaydip-kathiriya/FW_OTA/firmware.bin"
+    "host": "http://www.thetechnovalley.com/ttv/fw_check.json",
+    "port": 80,
+    "bin": "http://www.thetechnovalley.com/ttv/firmware.bin"
   },
   "Mall-Charger": {
     "version": "MC-0.1.1",
-    "host": "raw.githubusercontent.com",
-    "port": 443,
-    "bin": "/jaydip-kathiriya/FW_OTA/firmware.bin"
+    "host": "http://www.thetechnovalley.com/ttv/fw_check.json",
+    "port": 80,
+    "bin": "http://www.thetechnovalley.com/ttv/firmware.bin"
   }
 }
